@@ -12,9 +12,17 @@
 
 ## Web Bluetooth
 
+![screenshot](BLE_diagram.png)
+
 
 ## Bot Assembly
+* connect motors
+* connect pins
+* connect battery pack
+* secure the pieces
+* customize
 
+![screenshot](wiring.png)
 
 
 ## Bot connecting.
