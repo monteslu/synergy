@@ -32,3 +32,35 @@
 * digital Characteristic `2a56`
 
 * analog Characteristic `2a58`
+
+
+## directional movement
+
+* Right wheel forward:
+digital: `[8,1]` and `[7,0]`
+
+* Left wheel forward:
+digital: `[5,1]` and `[4,0]`
+
+
+* Right wheel reverse:
+digital: `[8,0]` and `[7,1]`
+
+* Left wheel reverse:
+digital: `[5,0]` and `[4,1]`
+
+
+## speed
+
+* Right wheel full speed:
+analog: `[9,255]`
+
+* Left wheel full speed:
+analog: `[3,255]`
+
+
+* Right wheel STOP:
+analog: `[9,0]`
+
+* Left wheel STOP:
+analog: `[3,0]`
